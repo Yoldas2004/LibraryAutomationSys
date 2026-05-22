@@ -1,0 +1,14 @@
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\bin\Debug\net10.0\KutuphaneOtomasyonDeneme.exe
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\bin\Debug\net10.0\KutuphaneOtomasyonDeneme.deps.json
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\bin\Debug\net10.0\KutuphaneOtomasyonDeneme.runtimeconfig.json
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\bin\Debug\net10.0\KutuphaneOtomasyonDeneme.dll
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\bin\Debug\net10.0\KutuphaneOtomasyonDeneme.pdb
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.AssemblyInfoInputs.cache
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.AssemblyInfo.cs
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.csproj.CoreCompileInputs.cache
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.dll
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\refint\KutuphaneOtomasyonDeneme.dll
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.pdb
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\KutuphaneOtomasyonDeneme.genruntimeconfig.cache
+C:\Users\cicek\OneDrive\Masaüstü\NTP\KutuphaneOtomasyonDeneme\KutuphaneOtomasyonDeneme\obj\Debug\net10.0\ref\KutuphaneOtomasyonDeneme.dll
